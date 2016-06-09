@@ -1,5 +1,4 @@
-# pyJoiner - Tkinter Version
-# Open Source Exe Joiner (Trojan Maker)
+# pyJoiner - Windows Version
 # Coder: Daniel Henrique Negri Moreno (a.k.a W1ckerMan)
 
 How to run pyJoiner:
